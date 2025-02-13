@@ -28,7 +28,6 @@
 
 - **Python 3.12**: Core programming language.
 - **FastAPI**: Framework for building the RESTful API.
-- **Pydantic**: Data validation and settings management.
 - **Docker**: Containerization for easy deployment.
 - **Docker Compose**: Orchestration for multi-container setups.
 - **Pytest**: Testing framework for unit and integration tests.
